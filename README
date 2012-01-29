@@ -1,0 +1,12 @@
+eRobot is a collection of emoticons(smileys) and their description. This service is setup to translate emoticons to English for people like me who struggle to understand emoticons.
+
+ToDo
+* Collect a list of emoticons and their meanings
+* Make sure emoticon works LTR and RTL by using string reverse
+* Provide an interface to be called to get the description for the emoticon
+
+How can you help
+* By contributing list of smileys and it's name
+* Contributing and improving code
+* Providing feedback
+* Creating browser plugins and apps for various OS's
