@@ -4,6 +4,7 @@ ToDo
 * Collect a list of emoticons and their meanings
 * Make sure emoticon works LTR and RTL by using string reverse
 * Provide an interface to be called to get the description for the emoticon
+* Allow description to be passed and give a set of emoticons
 
 How can you help
 * By contributing list of smileys and it's name
