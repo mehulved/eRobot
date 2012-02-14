@@ -1,3 +1,7 @@
 :-)	Happy
 :-(	Sad
 ;-)	Wink
+:-D	Laughing
+:-|	Straight Face
+:-P	Cheeky
+:-o	Surprise
