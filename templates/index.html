@@ -1,8 +1,6 @@
-$def with (smiley)
+$def with (result)
 
 <!-- if smiley is given as a parameter, display it else print invalid error message-->
-$if smiley:
-     $smiley
-$else:
-     "Invalid!"
-
+$for key,value in result.iteritems():
+    <p>Emoticon: $key</p>
+    <p>Meaning: $value</p>
